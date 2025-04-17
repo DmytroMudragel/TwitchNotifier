@@ -4,7 +4,7 @@ TwitchNotifier — a desktop application developed with C# .NET. The program app
 
 ## Features:
 
-- See the upcoming Twitch drops in chat.
+- See the upcoming Twitch drops in chat. 
 
 <p align="left">
 
