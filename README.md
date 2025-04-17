@@ -1,6 +1,6 @@
 # TwitchNotifier
 
-TwitchNotifier — a desktop application developed with C# .NET. The program appears as an online, legitimately logged-in Twitch user, parses JSON files and requests responses to gather all the information on upcoming game drops so you won't miss it. The notification is built through the messenger bot, which is extremely convenient. 
+TwitchNotifier — a desktop application developed with **C# .NET**. The program appears as an online, legitimately logged-in Twitch user, parses **JSON** files and requests responses to gather all the information on upcoming game drops so you won't miss it. The notification is built through the messenger bot, which is extremely convenient. 
 
 ## Features:
 
